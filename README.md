@@ -28,6 +28,7 @@ than the entire cart be discard.
 ![Image1.png](imgs/iteration1/model/Bales_Cart_Iteration1_001.png)
 
 ### Design:
+
 Component|Description
 ---|---
 Deck|(1) 23/32 in. x 4 ft. x 8 ft. Southern Pine Tongue and Groove Plywood Sheathing
@@ -57,7 +58,6 @@ Hardware|Rope to use as a handle
 
 ![Image2.png](imgs/iteration2/model/Bales_Cart_Iteration2_001.png)
 
-
 ### Design (changes only):
 
 Component|Description
@@ -85,6 +85,7 @@ Hardware|5/16 in. Serrated Zinc Lock Nuts
   tightened, it is likely they would split the beam.
 
 ## Iteration 3 (under construction)
+
 ![Image3.png](imgs/iteration3/model/Bales_Cart_Iteration3_001.png)
 
 ### Design (changes only):
@@ -96,4 +97,6 @@ Hardware|5/16 in.-18 Zinc Plated Nylon Lock Nuts. Selected to reduced loosening 
 Hardware|9/16 in. Zinc Flat Washers. These were chosen to support the top of the carriage bolts and prevent the bolts from sinking into the soft wood beams.
 Coating|Varathane 1 qt. Clear Gloss Oil-Based Exterior Spar Urethane. Chosen to reduce weathering of the cart.
 
-Failures: TBD
+### Failures:
+
+- TBD
