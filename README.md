@@ -28,26 +28,16 @@ than the entire cart be discard.
 ![Image1.png](imgs/iteration1/model/Bales_Cart_Iteration1_001.png)
 
 ### Design:
-
-Deck:
-
-- (1) 23/32 in. x 4 ft. x 8 ft. Southern Pine Tongue and Groove Plywood Sheathing
-
-Beams:
-
-- (2) vertical 2x4 stacked side by side to form front/rear beams
-- (1) vertical 2x4 per side to serve as side beams for extra support
-
-Wheels:
-
-- (2) 5 in. Medium Duty Gray TPR Swivel Plate Caster with Brake (350 lbs. Weight Capacity)
-- (2) 5 in. Medium Duty Gray TPR Swivel Plate Caster (350 lbs. Weight Capacity)
-
-Hardware:
-
-- \# 8 x 2 in. Phillips Bugle-Head Coarse Thread Sharp Point Polymer Coated Exterior Screws
-- Zinc Flat Washers to support the screws used to attach the caster mounting plates to the beams
-- Rope to use as a handle
+Component|Description
+---|---
+Deck|(1) 23/32 in. x 4 ft. x 8 ft. Southern Pine Tongue and Groove Plywood Sheathing
+Front/Rear Beams|(2) vertical 2x4 stacked side by side
+Side Beams|(1) vertical 2x4 per side
+Front Wheels|(2) 5 in. Medium Duty Gray TPR Swivel Plate Caster with Brake (350 lbs. Weight Capacity)
+Rear Wheels|(2) 5 in. Medium Duty Gray TPR Swivel Plate Caster (350 lbs. Weight Capacity)
+Hardware|\# 8 x 2 in. Phillips Bugle-Head Coarse Thread Sharp Point Polymer Coated Exterior Screws
+Hardware|Zinc Flat Washers to support the screws used to attach the caster mounting plates to the beams
+Hardware|Rope to use as a handle
 
 ### Notes:
 
@@ -65,21 +55,18 @@ Hardware:
 
 ## Iteration 2
 
-![Image2.png](imgs/iteration2/model/Bales Cart design 2 001.png)
+![Image2.png](imgs/iteration2/model/Bales_Cart_Iteration2_001.png)
 
 
 ### Design (changes only):
 
-Beams:
-
-- (2) horizontal 2x4 sandwiching the deck in both the front and rear
-- (1) horizontal 2x4 per side to serve as side beams for extra support
-
-Hardware:
-
-- 5/16 in.-18 x 4-12 in. A307 Garde-A Zinc Plated Steel Carriage Bolts to anchor wheels to the front and rear beams
-- 5/16 in. Zinc Flat Washers
-- 5/16 in. Serrated Zinc Lock Nuts
+Component|Description
+---|---
+Front/Rear Beams|(2) horizontal 2x4 sandwiching the deck in both the front and rear
+Side Beams|(1) horizontal 2x4 per side to serve as side beams for extra support
+Hardware|5/16 in.-18 x 4-12 in. A307 Garde-A Zinc Plated Steel Carriage Bolts to anchor wheels to the front and rear beams
+Hardware|5/16 in. Zinc Flat Washers
+Hardware|5/16 in. Serrated Zinc Lock Nuts
 
 ### Notes:
 
@@ -98,23 +85,15 @@ Hardware:
   tightened, it is likely they would split the beam.
 
 ## Iteration 3 (under construction)
-![Image3.png](imgs/iteration3/model/Bales Cart 3 001.png)
+![Image3.png](imgs/iteration3/model/Bales_Cart_Iteration3_001.png)
 
 ### Design (changes only):
 
-Beams:
-
-- (2) horizontal 2x6 sandwiching the deck in both the front and rear. This allows for the rotation of the wheel mounting
-  plates by 90 degrees so fixed wheel casters can be installed for the rear wheels.
-
-Hardware:
-
-- 5/16 in.-18 Zinc Plated Nylon Lock Nuts. Selected to reduced loosening due to rattling.
-- 9/16 in. Zinc Flat Washers. These were chosen to support the top of the carriage bolts and prevent the bolts from
-  sinking into the soft wood beams.
-
-Coating:
-
-- Varathane 1 qt. Clear Gloss Oil-Based Exterior Spar Urethane. Chosen to reduce weathering of the cart.
+Component|Description
+---|---
+Front/Rear Beams|(2) horizontal 2x6 sandwiching the deck in both the front and rear. This allows for the rotation of the wheel mounting plates by 90 degrees so fixed wheel casters can be installed for the rear wheels.
+Hardware|5/16 in.-18 Zinc Plated Nylon Lock Nuts. Selected to reduced loosening due to rattling.
+Hardware|9/16 in. Zinc Flat Washers. These were chosen to support the top of the carriage bolts and prevent the bolts from sinking into the soft wood beams.
+Coating|Varathane 1 qt. Clear Gloss Oil-Based Exterior Spar Urethane. Chosen to reduce weathering of the cart.
 
 Failures: TBD
