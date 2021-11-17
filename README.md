@@ -13,6 +13,7 @@ Store-bought carts have proven ineffective at withstanding the harsh conditions 
 - Cart will be stored outside and must be able to resist rain and sun and undergraduates
 
 ## Iteration 1
+![Image1.png](imgs/model/Bales_Cart_Iteration1_002.png)
 ### Design:
 Deck:
 - (1) 23/32 in. x 4 ft. x 8 ft. Southern Pine Tongue and Groove Plywood Sheathing
@@ -28,6 +29,9 @@ Wheels:
 Hardware:
 - #8 x 2 in. Phillips Bugle-Head Coarse Thread Sharp Point Polymer Coated Exterior Screws
 - Zinc Flat Washers to support the screws used to attach the caster mounting plates to the beams
+
+### Notes:
+- Contrary to the model, the orthogonal middle beam was not installed on the underside. It was determined that the deck would be strong enough without the middle beam, and removing the middle beam reduced the weight of the overall cart.
 
 ### Failures:
 - Due to the width of the beams, the orientation of the casters could not accommodate fixed wheel casters. Using swivel casters for both front and rear wheel systems resulted in a cart that was more difficult to steer.
