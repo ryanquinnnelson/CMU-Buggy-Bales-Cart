@@ -10,7 +10,7 @@ Store-bought carts have proven ineffective at withstanding the harsh conditions 
 
 ## Requirements
 - Cart must be able to support multiple hay bales
-- Cart will be stored outside and must be able to resist rain and sun
+- Cart will be stored outside and must be able to resist rain and sun and undergraduates
 
 ## Iteration 1
 ### Design:
@@ -27,11 +27,11 @@ Wheels:
 
 Hardware:
 - #8 x 2 in. Phillips Bugle-Head Coarse Thread Sharp Point Polymer Coated Exterior Screws
-- Everbilt 5/16 in. Zinc Flat Washer
+- Zinc Flat Washers to support the screws used to attach the caster mounting plates to the beams
 
 ### Failures:
 - Due to the width of the beams, the orientation of the casters could not accommodate fixed wheel casters. Using swivel casters for both front and rear wheel systems resulted in a cart that was more difficult to steer.
-- Beams were attached to the deck using a small number of screws. The first use of the cart resulted in the rear beam being torn off the deck.
+- Beams were attached to the deck using a small number of screws. The first use of the cart resulted in the rear beam being torn off the deck. It's possible that using additional screws could have prevented this failure, but a bolt mounting system would be an improvement.
 
 
 ## Iteration 2
