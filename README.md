@@ -13,7 +13,8 @@ Store-bought carts have proven ineffective at withstanding the harsh conditions 
 - Cart will be stored outside and must be able to resist rain and sun and undergraduates
 
 ## Iteration 1
-![Image1.png](imgs/model/Bales_Cart_Iteration1_002.png)
+![Image1.png](imgs/iteration1/model/Bales_Cart_Iteration1_002.png)
+
 ### Design:
 Deck:
 - (1) 23/32 in. x 4 ft. x 8 ft. Southern Pine Tongue and Groove Plywood Sheathing
