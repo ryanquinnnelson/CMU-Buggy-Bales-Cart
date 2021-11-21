@@ -13,8 +13,8 @@ carts to ferry multiple bales around at once.
 Store-bought carts have proven ineffective at withstanding the harsh conditions of weather, the weight of the bales, and
 being handled by undergraduate students. Broken within days of first use, carts are constantly being replaced or done
 without. Of my own initiative, I recognized the inefficiency of the current system of bales carts. I designed and
-constructed a bales cart out of construction-grade lumber, improving the design multiple times to accommodate the
-results of field testing. The resulting cart has significantly reduced the amount of time and effort required to install
+constructed a bales cart out of construction-grade lumber, and I improved the design multiple times to accommodate the
+results of field testing. The custom cart has significantly reduced the amount of time and effort required to install
 and remove hay bales for practices. Additionally, the design is modular, so components can be replaced as needed, rather
 than the entire cart be discard.
 
