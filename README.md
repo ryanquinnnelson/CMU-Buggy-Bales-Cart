@@ -80,6 +80,7 @@ Hardware|5/16 in. Serrated Zinc Lock Nuts
 
 - Carriage bolts on the front wheels were cut to allow the front wheels to rotate 360 degrees. Carriage bolts on the
   rear wheels were left long in order to restrict rear wheel rotation to a small arc.
+- In addition to creating a stronger structure, having the beams stick above the deck of the cart helps keep the bales from falling off. 
 
 ### Failures:
 
