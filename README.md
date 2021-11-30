@@ -104,6 +104,7 @@ Hardware|5/16 in. Serrated Zinc Lock Nuts
 Component|Description
 ---|---
 Front/Rear Beams|(2) horizontal 2x6 sandwiching the deck in both the front and rear. This allows for the rotation of the wheel mounting plates by 90 degrees so fixed wheel casters can be installed for the rear wheels.
+Rear Wheels|(2) 5 in. Medium Duty Gray TPR Rigid Plate Caster (330 lbs. Weight Capacity)
 Hardware|5/16 in.-18 Zinc Plated Nylon Lock Nuts. Selected to reduce loosening due to rattling.
 Hardware|9/16 in. Zinc Flat Washers. These were chosen to support the top of the carriage bolts and prevent the bolts from sinking into the soft wood beams.
 Coating|Varathane 1 qt. Clear Gloss Oil-Based Exterior Spar Urethane. Chosen to reduce weathering of the cart.
@@ -111,6 +112,7 @@ Coating|Varathane 1 qt. Clear Gloss Oil-Based Exterior Spar Urethane. Chosen to 
 ### Notes:
 
 - One challenge I ran into was finding a way to tighten the lock nuts on the carriage bolts without having a means of keeping the bolts from rotating. My solution was to use a hammer to flatten small areas on opposing sides of the carriage bolt heads so an adjustable wrench could keep the bolt from rotating.
+- Switched right front wheel to a brakeless version because it wasn't easy to toggle and only a single brake is really necessary.
 
 ### Failures:
 
