@@ -76,7 +76,7 @@ Hardware|5/16 in. Serrated Zinc Lock Nuts
 ### Failures:
 
 - Cart has sustained multiple practices, but is already showing signs of wear. Horizontal beams are starting to pull
-  apart at one end. One of the lock nuts on one wheel is coming loose, indicating that friction lock nuts are not enough
+  apart at one end, indicating more hardware is needed to transfer forces to the deck in this area. One of the lock nuts on one wheel is coming loose, indicating that friction lock nuts are not enough
   to resist loosening due to rattling.
 - Plywood is looking weathered.
 - Although the carriage bolts in the rear helped restrict rotation of the rear wheels and improve steering, the small
@@ -93,7 +93,7 @@ Hardware|5/16 in. Serrated Zinc Lock Nuts
 Component|Description
 ---|---
 Front/Rear Beams|(2) horizontal 2x6 sandwiching the deck in both the front and rear. This allows for the rotation of the wheel mounting plates by 90 degrees so fixed wheel casters can be installed for the rear wheels.
-Hardware|5/16 in.-18 Zinc Plated Nylon Lock Nuts. Selected to reduced loosening due to rattling.
+Hardware|5/16 in.-18 Zinc Plated Nylon Lock Nuts. Selected to reduce loosening due to rattling.
 Hardware|9/16 in. Zinc Flat Washers. These were chosen to support the top of the carriage bolts and prevent the bolts from sinking into the soft wood beams.
 Coating|Varathane 1 qt. Clear Gloss Oil-Based Exterior Spar Urethane. Chosen to reduce weathering of the cart.
 
