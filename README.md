@@ -6,7 +6,7 @@ CMU Buggy is a multidisciplinary sport unique to Carnegie Mellon University (htt
 student-led, teams engineer, build, and race aerodynamic human-powered carts ("buggies") on a 0.84 mile course. Drivers
 can reach speeds of up to 40 MPH, so safety is paramount.
 
-For practices and races, up to 100 50-pound hay bales are installed along the course to serve as an impact barrier in
+For practices and races, up to one hundred 50-pound hay bales are installed along the course to serve as an impact barrier in
 the event of a crash. It takes significant time and effort to install and remove these bales every weekend, so teams use
 carts to ferry multiple bales around at once.
 
@@ -16,7 +16,7 @@ without. Of my own initiative, I recognized the inefficiency of the current syst
 constructed a bales cart out of construction-grade lumber, and I improved the design multiple times to accommodate the
 results of field testing. The custom cart has significantly reduced the amount of time and effort required to install
 and remove hay bales for practices. Additionally, the design is modular, so components can be replaced as needed, rather
-than the entire cart be discard.
+than the entire cart.
 
 ## Requirements
 
@@ -84,7 +84,7 @@ Hardware|5/16 in. Serrated Zinc Lock Nuts
 - Carriage bolts are sinking into the soft wood beams at the top due to the lack of washers. If they continue to be
   tightened, it is likely they would split the beam.
 
-## Iteration 3 (under construction)
+## Iteration 3
 
 ![Image3.png](imgs/iteration3/model/Bales_Cart_Iteration3_001.png)
 
@@ -96,6 +96,10 @@ Front/Rear Beams|(2) horizontal 2x6 sandwiching the deck in both the front and r
 Hardware|5/16 in.-18 Zinc Plated Nylon Lock Nuts. Selected to reduced loosening due to rattling.
 Hardware|9/16 in. Zinc Flat Washers. These were chosen to support the top of the carriage bolts and prevent the bolts from sinking into the soft wood beams.
 Coating|Varathane 1 qt. Clear Gloss Oil-Based Exterior Spar Urethane. Chosen to reduce weathering of the cart.
+
+### Notes:
+
+- One challenge I ran into was finding a way to tighten the lock nuts without having a means of keeping the bolt from rotating. My solution was to use a hammer to flatten opposing sides of the carriage bolt heads so an adjustable wrench could keep the bolt from rotating.
 
 ### Failures:
 
