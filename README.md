@@ -99,7 +99,7 @@ Coating|Varathane 1 qt. Clear Gloss Oil-Based Exterior Spar Urethane. Chosen to 
 
 ### Notes:
 
-- One challenge I ran into was finding a way to tighten the lock nuts without having a means of keeping the bolt from rotating. My solution was to use a hammer to flatten opposing sides of the carriage bolt heads so an adjustable wrench could keep the bolt from rotating.
+- One challenge I ran into was finding a way to tighten the lock nuts on the carriage bolts without having a means of keeping the bolts from rotating. My solution was to use a hammer to flatten small areas on opposing sides of the carriage bolt heads so an adjustable wrench could keep the bolt from rotating.
 
 ### Failures:
 
