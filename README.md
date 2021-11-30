@@ -58,6 +58,10 @@ Hardware|Rope to use as a handle
 
 ![Image2.png](imgs/iteration2/model/Bales_Cart_Iteration2_001.png)
 
+![Image5.png](imgs/iteration2/thumbnails/IMG_2562.png)
+
+
+
 ### Design (changes only):
 
 Component|Description
