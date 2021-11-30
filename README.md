@@ -72,7 +72,7 @@ Component|Description
 ---|---
 Front/Rear Beams|(2) horizontal 2x4 sandwiching the deck in both the front and rear
 Side Beams|(1) horizontal 2x4 per side to serve as side beams for extra support
-Hardware|5/16 in.-18 x 4-12 in. A307 Garde-A Zinc Plated Steel Carriage Bolts to anchor wheels to the front and rear beams
+Hardware|5/16 in.-18 x 4-1/2 in. A307 Garde-A Zinc Plated Steel Carriage Bolts to anchor wheels to the front and rear beams
 Hardware|5/16 in. Zinc Flat Washers
 Hardware|5/16 in. Serrated Zinc Lock Nuts
 
