@@ -88,6 +88,8 @@ Hardware|5/16 in. Serrated Zinc Lock Nuts
 
 ![Image3.png](imgs/iteration3/model/Bales_Cart_Iteration3_001.png)
 
+![Image4.png](imgs/iteration3/thumbnails/IMG_2909.png)
+
 ### Design (changes only):
 
 Component|Description
