@@ -27,7 +27,7 @@ than the entire cart. Given the success of the first completed cart, I applied f
 
 ![Image1.png](imgs/iteration1/model/Bales_Cart_Iteration1_001.png)
 
-![Image6.png](imgs/iteration1/thumbnails/Side_001.png.png)
+![Image6.png](imgs/iteration1/thumbnails/Side_001.png)
 
 
 
