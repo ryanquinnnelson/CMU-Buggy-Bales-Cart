@@ -16,7 +16,7 @@ without. Of my own initiative, I recognized the inefficiency of the current syst
 constructed a bales cart out of construction-grade lumber, and I improved the design multiple times to accommodate the
 results of field testing. The custom cart has significantly reduced the amount of time and effort required to install
 and remove hay bales for practices. Additionally, the design is modular, so components can be replaced as needed, rather
-than the entire cart.
+than the entire cart. Given the success of the first completed cart, I applied for and was granted funding for a second bales cart.
 
 ## Requirements
 
